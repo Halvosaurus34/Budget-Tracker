@@ -57,5 +57,5 @@ I used [Express](https://www.npmjs.com/package/express), [MongoDB](https://dev.m
 
 ## 👀 Screenshot
 
-![Website Screenshot](./public/assets/Screenshot.PNG)
+![Website Screenshot](./screenshot.PNG)
 
