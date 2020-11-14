@@ -43,15 +43,15 @@ For additional questions please reach out to me at: lhalvorson34@gmail.com.
 
 ## 🎯 Links
 
-[Deployed Eat-Da-Burger Website](https://mighty-plains-09703.herokuapp.com/)
+[Budget Tracker Website](https://dashboard.heroku.com/apps/floating-crag-35549)
 
 ---
 
-[Eat-Da-Burger GitHub Repository](https://github.com/Halvosaurus34/Eat-Da-Burger)
+[Budget Tracker GitHub Repository](https://github.com/Halvosaurus34/Budget-Tracker)
 
 ---
 
-I used [Express](https://www.npmjs.com/package/express), [mySQL](https://dev.mysql.com/doc/) and [Handlebars](https://handlebarsjs.com/) to build this web app.
+I used [Express](https://www.npmjs.com/package/express), [MongoDB](https://dev.mysql.com/doc/) and Mongo Atlas to build this web app.
 
 ---
 
