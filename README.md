@@ -43,7 +43,7 @@ For additional questions please reach out to me at: lhalvorson34@gmail.com.
 
 ## 🎯 Links
 
-[Budget Tracker Website](https://dashboard.heroku.com/apps/floating-crag-35549)
+[Budget Tracker Website](https://floating-crag-35549.herokuapp.com/)
 
 ---
 
